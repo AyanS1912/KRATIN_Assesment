@@ -9,20 +9,35 @@ This project focuses on predicting the severity of dementia, with potential outc
 The dataset used in this project contains the following features:
 
 Subject ID: Identifier for each subject
+
 MRI ID: Identifier for each MRI scan
+
 Group: Dementia severity group ("non-demented," "demented," "converted")
+
 Visit: Number of visits for each subject
+
 MR Delay: Delay in performing MRI after the first visit
+
 M/F: Gender of the subject
+
 Hand: Handedness of the subject
+
 Age: Age of the subject
+
 EDUC: Years of education
+
 SES: Socioeconomic status
+
 MMSE: Mini-Mental State Examination score
+
 CDR: Clinical Dementia Rating
+
 eTIV: Estimated Total Intracranial Volume
+
 nWBV: Normalize Whole Brain Volume
+
 ASF: Atlas Scaling Factor
+
 
 ## Dementia Severity Groups
 Non-Demented: Individuals without signs of dementia.
