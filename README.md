@@ -41,7 +41,9 @@ ASF: Atlas Scaling Factor
 
 ## Dementia Severity Groups
 Non-Demented: Individuals without signs of dementia.
+
 Demented: Individuals diagnosed with dementia.
+
 Converted: Individuals whose dementia status changed during follow-up visits.
 
 ## Machine Learning Workflow
