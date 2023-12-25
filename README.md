@@ -5,6 +5,9 @@
 ## Introduction
 This project focuses on predicting the severity of dementia, with potential outcomes being "non-demented," "demented," and "converted." The aim is to provide insights into the state of dementia for individuals, helping them and their caregivers make informed decisions.
 
+## Objective
+The primary objective of this project is to address the growing concern of dementia, especially in the elderly population. Dementia is a syndrome affecting memory, cognitive function, and the ability to perform everyday activities. With an aging global population, the prevalence of dementia is increasing, posing challenges for individuals, caregivers, and healthcare systems.
+
 ## Dataset
 The dataset used in this project contains the following features:
 
